@@ -1,0 +1,13 @@
+name: StaffUtilities-Bukkit
+commands:
+  spectate:
+    permission: staff.spectate
+    description: Allows a staff member to spectate
+    aliases: [sp, view]
+main: ml.nextuniverse.StaffUtilitiesBukkit.Main
+version: 1.0
+depend: [VanishNoPacket]
+author: TheDiamondPicks
+website: https://www.nextuniverse.ml
+prefix: StaffUtilities
+
